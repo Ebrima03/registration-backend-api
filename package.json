@@ -12,5 +12,6 @@
   },
   "scripts": {
     "dev": "nodemon input.js"
-  }
+  },
+  "main": "input.js"
 }
